@@ -1,0 +1,23 @@
+{
+  "name": "prkeshri",
+  "version": "1.0.0",
+  "description": "This is my personal repository, you know right?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cowsay -f ./me Yay! You got me!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prkeshri/prkeshri.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/prkeshri/prkeshri/issues"
+  },
+  "homepage": "https://github.com/prkeshri/prkeshri#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
