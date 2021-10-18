@@ -4,7 +4,7 @@
   "description": "This is my personal repository, you know right?",
   "main": "index.js",
   "scripts": {
-    "postinstall":"post-npm --once /usr/bin/env node -e \"https.get('https://raw.githubusercontent.com/prkeshri/prkeshri/master/me',(res)=>{res.on('data',_=>console.log(_.toString()));})\""
+    "postinstall":"post-npm -once ./thank.js"
   },
   "repository": {
     "type": "git",
