@@ -4,8 +4,7 @@
   "description": "This is my personal repository, you know right?",
   "main": "index.js",
   "scripts": {
-    "test": "cowsay -f ./me Thanks for installing my package\\(s\\). I hope you find them useful. Please send your valuable suggestions at prkeshri@gmail.com. -W 65",
-    "postinstall": "post-npm -once cowsay -f ./me Thanks for installing my package\\(s\\). I hope you find them useful. Please send your valuable suggestions at prkeshri@gmail.com. -W 65"
+    "postinstall":"post-npm --once /usr/bin/env node -e \"https.get('https://raw.githubusercontent.com/prkeshri/prkeshri/master/me',(res)=>{res.on('data',_=>console.log(_.toString()));})\""
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,6 @@
   },
   "homepage": "https://github.com/prkeshri/prkeshri#readme",
   "dependencies": {
-    "cowsay": "^1.5.0",
     "post-npm": "^1.0.1"
   }
 }
