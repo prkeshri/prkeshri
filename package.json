@@ -4,7 +4,7 @@
   "description": "This is my personal repository, you know right?",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "cowsay -f ./me Yay! You got me!",
     "postinstall": "cowsay -f ./me Yay! You got me!"
   },
   "repository": {

@@ -16,12 +16,6 @@
 
 ### 🏠 [Homepage](https://github.com/prkeshri/prkeshri#readme)
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 * Github: [@prkeshri](https://github.com/prkeshri)
