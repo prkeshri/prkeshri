@@ -1,12 +1,137 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/q/holi.jpg",
+        "type": "quote",
+        "text": "गाड़ी घर के पास लगाया हूं। उधर से एक बच्ची आती है और अपना रंगा हुवा चेहरा पीछे वाले शीशे में देखती है। अब कारण चाहें जो भी हो, बच्चे खुश हैं, खेलते हैं सब साथ में और एक अच्छा अनुभव करते हैं। बस होली का आज यही महत्व है।",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/holi",
+        "srcId": "holi",
+        "date": "17th March 2022",
+        "categories": [
+            "festival",
+            "holi"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1647071007/q/sanskriti.jpg",
+        "type": "quote",
+        "text": "अब से चाहें कोई कितना भी ज्ञान की बात क्यों कर ले या फिर ज्ञानी पुरुष/ महिला ही क्यों न हो, मैं अपनी संस्कृति का कभी अनादर नहीं करूंगा।\nकुछ चीजें ऊपर नीचे हो सकती हैं, लेकिन दुनिया का कबाड़ ले करके पूरी प्रथाओं को उल्टा सीधा कह देना अपने ही अस्तित्व के साथ अन्याय है।।",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/sansk",
+        "srcId": "sansk",
+        "date": "9th March 2022",
+        "categories": [
+            "humour",
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1645085863/q/beware-crazy-people.jpg",
+        "type": "quote",
+        "text": "Beware of crazy people, they may ask you questions you never wanted to hear. Also, may cheer you up when you feel nowhere! 😉",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/bocptm",
+        "srcId": "bocptm",
+        "date": "17th February 2022",
+        "categories": [
+            "humour",
+            "life"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1644688009/q/friends-relatives-psychological.jpg",
+        "type": "quote",
+        "text": "What your friends/relatives have done to you is NOT your child's or family members' mistake. But the psychological effects of regular grudging & complaining about them, the ill will environment & a recurring bitterness as a result, is CERTAINLY YOUR mistake !!",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/what-your-friends-relatives-have-done-you-not-your-child-s-cjx66b",
+        "srcId": "cjx66b",
+        "date": "12nd February 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1644403234/q/others-suffering-citing.jpg",
+        "type": "quote",
+        "text": "Justify others' sufferings by citing a bigger example. Justify ones' own sufferings by citing a similar or a bigger one with someone else. In both the above scenarios, irony dies a hundred deaths!",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/justify-others-sufferings-citing-bigger-example-justify-ones-cjufl0",
+        "srcId": "cjufl0",
+        "date": "9th February 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1643991867/q/devotee-for-hate.jpg",
+        "type": "quote",
+        "text": "Unknowingly & unintentionally, we become a devotee of the one(s) we hate & complain in a regular manner.",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/unknowingly-unintentionally-become-devotee-one-s-hate-manner-cjpeoo",
+        "srcId": "cjpeoo",
+        "date": "4th February 2022",
+        "categories": [
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1643745067/q/irony-bully-fun.jpg",
+        "type": "quote",
+        "text": "It's an irony how people generally mistreat/ bully/ disregard others in the name of \"fun\" & later ask them to chill!",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/undefined-cjl71c",
+        "srcId": "cjl71c",
+        "date": "2nd February 2022",
+        "categories": [
+            "life",
+            "diary"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1643565241/q/imvho-moveon-nonsense-advices.jpg",
+        "type": "quote",
+        "text": "In My very humble Opinion, \"move on\", \"smile\"/ \"be happy\" (for no apparent reason!) are nonsense advices. One can still be stuck & dedicate sometime (an hour or 2 Daily) to cry (cry really hard!) & then focus on other aspects of life! The very reason these advices are given because they are totally impractical; atleast for sometime!!",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/im-very-humble-o-move-smile-happy-no-apparent-reason-advices-cjjh18",
+        "srcId": "cjjh18",
+        "date": "30th January 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
+        "img": "https://media.images.yourquote.in/post/720/0/0/135/898/xBV53963.webp",
+        "type": "quote",
+        "text": "More the revelations,\nmore the frustration!",
+        "src": "yq",
+        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/more-revelations-more-frustration-ci6334",
+        "srcId": "ci6334",
+        "date": "23rd January 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },
+    {
         "img": "https://media.images.yourquote.in/post/360/0/0/135/620/x61N4370.webp",
         "type": "quote",
         "text": "The end decides on the quality of the journey & the companion(s)!",
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/end-decides-quality-journey-companion-s-ci05js",
         "srcId": "ci05js",
-        "date": "18 JAN AT 13:13",
+        "date": "18th January 2022",
         "categories": [
             "life",
             "philosophy"
@@ -20,7 +145,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/fear-remains-kills-all-time-unless-until-our-own-ones-once-cilldn",
         "srcId": "cilldn",
-        "date": "8 JAN AT 2:46",
+        "date": "8th January 2022",
         "categories": [
             "life",
             "philosophy"
@@ -34,7 +159,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/it-takes-very-less-initial-amounts-years-believing-our-like-chrat5",
         "srcId": "chrat5",
-        "date": "18 DEC 2021 AT 17:23",
+        "date": "18th December 2021",
         "categories": [
             "life",
             "philosophy"
@@ -48,7 +173,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-regret-every-moment-i-forced-myself-stay-conversation-all-chk5ae",
         "srcId": "chk5ae",
-        "date": "14 DEC 2021 AT 1:58",
+        "date": "14th December 2021",
         "categories": [
             "diary",
             "life"
@@ -62,24 +187,10 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/start-suing-news-media-how-much-they-degrade-our-mental-i-chiqv8",
         "srcId": "chiqv8",
-        "date": "12 DEC 2021 AT 10:53",
+        "date": "12nd December 2021",
         "categories": [
             "humour",
             "diary"
-        ],
-        "author": "me"
-    },
-    {
-        "img": "https://media.images.yourquote.in/post/360/0/0/133/67/x5JR9937.webp",
-        "type": "quote",
-        "text": "जा रहे ऐ सनम तेरी याद में पीने को, तुम जो साथ देती तो आज आसमान हमारा होता!!",
-        "src": "yq",
-        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/jaa-rhe-ai-snm-terii-yaad-men-piine-ko-tum-jo-saath-detii-chifhh",
-        "srcId": "chifhh",
-        "date": "12 DEC 2021 AT 0:53",
-        "categories": [
-            "love",
-            "erotica"
         ],
         "author": "me"
     },
@@ -90,7 +201,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/aware-person-subdued-unaware-bunch-because-lower-self-belief-chahzo",
         "srcId": "chahzo",
-        "date": "6 DEC 2021 AT 11:53",
+        "date": "6th December 2021",
         "categories": [
             "life",
             "philosophy"
@@ -104,7 +215,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/you-form-your-judgement-before-listening-all-sides-all-over-cg8i7h",
         "srcId": "cg8i7h",
-        "date": "4 DEC 2021 AT 23:06",
+        "date": "4th December 2021",
         "categories": [
             "life",
             "philosophy"
@@ -118,7 +229,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/this-about-come-wish-me-luck-go-through-cg6n9l",
         "srcId": "cg6n9l",
-        "date": "3 DEC 2021 AT 18:45",
+        "date": "3rd December 2021",
         "categories": [
             "life",
             "diary"
@@ -132,7 +243,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/sometimes-it-s-necessary-go-against-trend-viz-removing-time-cg413e",
         "srcId": "cg413e",
-        "date": "2 DEC 2021 AT 15:32",
+        "date": "2nd December 2021",
         "categories": [
             "life",
             "philosophy"
@@ -146,7 +257,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/when-target-clear-live-peace-needn-t-know-anything-more-than-cg2j26",
         "srcId": "cg2j26",
-        "date": "30 NOV 2021 AT 18:51",
+        "date": "30th November 2021",
         "categories": [
             "life",
             "philosophy"
@@ -160,7 +271,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/panic-not-always-created-just-because-event-may-such-nature-cgypb2",
         "srcId": "cgypb2",
-        "date": "27 NOV 2021 AT 21:26",
+        "date": "27th November 2021",
         "categories": [
             "humour",
             "diary"
@@ -174,7 +285,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-religious-course-i-i-ll-blame-god-whenever-necessary-only-cgq1r6",
         "srcId": "cgq1r6",
-        "date": "22 NOV 2021 AT 11:23",
+        "date": "22nd November 2021",
         "categories": [
             "life",
             "philosophy"
@@ -188,7 +299,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/always-value-your-friends-parents-parents-friends-equal-them-cghehc",
         "srcId": "cghehc",
-        "date": "15 NOV 2021 AT 15:04",
+        "date": "15th November 2021",
         "categories": [
             "life",
             "philosophy"
@@ -202,7 +313,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/do-your-work-you-feel-good-else-blame-people-circumstances-cgf2u0",
         "srcId": "cgf2u0",
-        "date": "14 NOV 2021 AT 15:51",
+        "date": "14th November 2021",
         "categories": [
             "life",
             "philosophy"
@@ -216,7 +327,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/cure-better-than-prevention-you-tell-people-about-prevention-cfki5q",
         "srcId": "cfki5q",
-        "date": "22 OCT 2021 AT 23:20",
+        "date": "22nd October 2021",
         "categories": [
             "life",
             "philosophy"
@@ -230,7 +341,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/puuraa-jiivn-aur-jvaanii-duhkh-aur-phaaltuu-ke-naattk-men-pr-ce05oj",
         "srcId": "ce05oj",
-        "date": "10 OCT 2021 AT 13:11",
+        "date": "10th October 2021",
         "categories": [
             "philosophy",
             "life"
@@ -244,7 +355,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/n-akaal-pddaa-hai-n-hii-ciin-yaa-paakistaan-ne-aakrmnn-kiyaa-cel084",
         "srcId": "cel084",
-        "date": "1 OCT 2021 AT 2:27",
+        "date": "1st October 2021",
         "categories": [
             "philosophy",
             "humour"
@@ -258,7 +369,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/just-ponder-all-hymns-recited-songs-sung-stories-told-see-it-cdm4n8",
         "srcId": "cdm4n8",
-        "date": "11 SEP 2021 AT 11:55",
+        "date": "11st September 2021",
         "categories": [
             "life",
             "philosophy"
@@ -272,7 +383,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/theory-make-you-high-let-you-believe-anything-history-tell-cdmhb7",
         "srcId": "cdmhb7",
-        "date": "10 SEP 2021 AT 23:14",
+        "date": "10th September 2021",
         "categories": [
             "life",
             "philosophy"
@@ -286,7 +397,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/social-distancing-words-written-posters-entertainment-cdect3",
         "srcId": "cdect3",
-        "date": "6 SEP 2021 AT 13:12",
+        "date": "6th September 2021",
         "categories": [
             "humour",
             "diary"
@@ -300,7 +411,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-have-firm-belief-just-moment-before-it-discovered-round-cc2b9l",
         "srcId": "cc2b9l",
-        "date": "30 AUG 2021 AT 23:22",
+        "date": "30th August 2021",
         "categories": [
             "diary",
             "philosophy"
@@ -314,7 +425,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/hr-kisii-ko-hk-hai-jiivn-baar-baar-jiine-kaa-nhiin-kisii-kii-cctlmb",
         "srcId": "cctlmb",
-        "date": "26 AUG 2021 AT 12:15",
+        "date": "26th August 2021",
         "categories": [
             "life",
             "**trl"
@@ -328,7 +439,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/all-have-most-religious-beliefs-ridiculous-explanations-even-ccf4vs",
         "srcId": "ccf4vs",
-        "date": "18 AUG 2021 AT 22:01",
+        "date": "18th August 2021",
         "categories": [
             "philosophy",
             "life"
@@ -342,7 +453,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/dukhii-hone-kaa-ek-triikaa-siddh-hai-main-shii-tum-glt-main-cbybcx",
         "srcId": "cbybcx",
-        "date": "9 AUG 2021 AT 17:33",
+        "date": "9th August 2021",
         "categories": [
             "life",
             "philosophy"
@@ -356,7 +467,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/jb-hr-kisii-ko-ptaa-hai-kii-duniyaa-kitnii-khraab-hai-phir-cbrx0y",
         "srcId": "cbrx0y",
-        "date": "6 AUG 2021 AT 13:14",
+        "date": "6th August 2021",
         "categories": [
             "life",
             "philosophy"
@@ -370,7 +481,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/end-most-people-would-compromise-say-it-s-life-it-s-like-go-cbnpgl",
         "srcId": "cbnpgl",
-        "date": "4 AUG 2021 AT 10:34",
+        "date": "4th August 2021",
         "categories": [
             "life",
             "philosophy"
@@ -384,7 +495,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-have-seen-scenarios-when-people-have-sat-made-eat-slept-s-cazm8j",
         "srcId": "cazm8j",
-        "date": "24 JUL 2021 AT 0:54",
+        "date": "24th July 2021",
         "categories": [
             "love",
             "philosophy"
@@ -398,7 +509,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/phesbuk-men-hr-koii-jnyaan-detaa-hai-kii-anyaay-shnaa-glt-hr-b947q1",
         "srcId": "b947q1",
-        "date": "10 JUL 2021 AT 9:11",
+        "date": "10th July 2021",
         "categories": [
             "humour",
             "philosophy"
@@ -412,7 +523,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/baahr-caahen-kitnaa-bhii-jnyaan-yaa-prvcn-de-lo-ydi-tummen-b9e3rr",
         "srcId": "b9e3rr",
-        "date": "28 JUN 2021 AT 20:54",
+        "date": "28th June 2021",
         "categories": [
             "life",
             "philosophy"
@@ -426,7 +537,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/uljhn-ktthinaaiyon-se-utnii-nhiin-hotii-jitnii-apnon-ke-n-n-b8omwp",
         "srcId": "b8omwp",
-        "date": "17 JUN 2021 AT 23:41",
+        "date": "17th June 2021",
         "categories": [
             "life",
             "philosophy"
@@ -440,7 +551,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/n-jaane-ye-koronaa-kaal-ab-kyaa-kyaa-dikhaaegaa-kitnon-se-lg-b41i7a",
         "srcId": "b41i7a",
-        "date": "28 APR 2021 AT 23:00",
+        "date": "28th April 2021",
         "categories": [
             "life",
             "philosophy"
@@ -454,7 +565,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/symptoms-anything-cough-cold-without-fever-just-make-sure-t-b3urva",
         "srcId": "b3urva",
-        "date": "9 APR 2021 AT 22:50",
+        "date": "9th April 2021",
         "categories": [
             "life"
         ],
@@ -467,7 +578,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-100-sure-most-people-who-post-sad-truth-wisdom-kind-posts-b2rnnt",
         "srcId": "b2rnnt",
-        "date": "22 MAR 2021 AT 22:21",
+        "date": "22nd March 2021",
         "categories": [
             "philosophy",
             "humour"
@@ -481,7 +592,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/hr-smy-smsyaa-btaane-kaa-arth-ye-nhiin-hotaa-kii-smaadhaan-n-b101vu",
         "srcId": "b101vu",
-        "date": "10 MAR 2021 AT 15:28",
+        "date": "10th March 2021",
         "categories": [
             "**pts",
             "life"
@@ -495,7 +606,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/you-chosen-average-person-who-partially-happy-partially-sad-b1yvrj",
         "srcId": "b1yvrj",
-        "date": "9 MAR 2021 AT 14:52",
+        "date": "9th March 2021",
         "categories": [
             "philosophy",
             "life"
@@ -509,7 +620,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/mnussy-ko-aag-lgne-pr-bhii-kuaan-khodnaa-shuruu-kr-denaa-ki-b1wmzx",
         "srcId": "b1wmzx",
-        "date": "8 MAR 2021 AT 13:12",
+        "date": "8th March 2021",
         "categories": [
             "philosophy",
             "life"
@@ -523,7 +634,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/you-just-need-one-more-step-mend-tussle-just-try-it-out-b04xu6",
         "srcId": "b04xu6",
-        "date": "23 FEB 2021 AT 22:09",
+        "date": "23rd February 2021",
         "categories": [
             "philosophy",
             "life"
@@ -537,7 +648,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/mnussy-ko-sbse-jyaadaa-ttenshn-ttenshn-nhiin-lene-ke-hvve-ke-b0eeld",
         "srcId": "b0eeld",
-        "date": "12 FEB 2021 AT 9:51",
+        "date": "12nd February 2021",
         "categories": [
             "philosophy",
             "life"
@@ -551,7 +662,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/beware-desperate-people-time-come-you-miss-them-most-bzxesz",
         "srcId": "bzxesz",
-        "date": "5 FEB 2021 AT 10:42",
+        "date": "5th February 2021",
         "categories": [
             "life",
             "philosophy"
@@ -565,7 +676,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/moh-maayaa-jaisaa-kuch-nhiin-hotaa-itnii-bhaarii-jnsnkhyaa-bzoflq",
         "srcId": "bzoflq",
-        "date": "1 FEB 2021 AT 12:17",
+        "date": "1st February 2021",
         "categories": [
             "philosophy",
             "life"
@@ -579,7 +690,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-do-care-what-people-think-about-me-think-good-you-all-bxjzx5",
         "srcId": "bxjzx5",
-        "date": "31 DEC 2020 AT 11:29",
+        "date": "31st December 2020",
         "categories": [
             "**ins",
             "**fds"
@@ -593,7 +704,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/main-vo-nhiin-pddhaataa-jo-khud-nhiin-maantaa-bxdqm7",
         "srcId": "bxdqm7",
-        "date": "28 DEC 2020 AT 19:26",
+        "date": "28th December 2020",
         "categories": [
             "life",
             "philosophy"
@@ -607,7 +718,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/unconditional-love-bullshit-very-reason-they-shown-movies-bwots8",
         "srcId": "bwots8",
-        "date": "17 DEC 2020 AT 15:40",
+        "date": "17th December 2020",
         "categories": [
             "philosophy",
             "life"
@@ -621,7 +732,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/all-gyan-useless-just-relax-start-crying-again-bwi9wx",
         "srcId": "bwi9wx",
-        "date": "15 DEC 2020 AT 9:33",
+        "date": "15th December 2020",
         "categories": [
             "humour",
             "**pot"
@@ -635,7 +746,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/aaj-jldii-hai-kl-der-ho-jaaegii-shii-smy-kbhii-n-aaegaa-bv6sfx",
         "srcId": "bv6sfx",
-        "date": "9 DEC 2020 AT 22:49",
+        "date": "9th December 2020",
         "categories": [
             "philosophy",
             "life"
@@ -649,7 +760,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/knowledge-darkness-bvfb68",
         "srcId": "bvfb68",
-        "date": "28 NOV 2020 AT 11:51",
+        "date": "28th November 2020",
         "categories": [
             "life",
             "philosophy"
@@ -663,7 +774,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/it-s-weird-how-when-you-introduce-your-friend-say-she-nice-t-bu6n2z",
         "srcId": "bu6n2z",
-        "date": "24 NOV 2020 AT 20:06",
+        "date": "24th November 2020",
         "categories": [
             "life",
             "philosophy"
@@ -677,7 +788,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/i-don-t-know-i-really-really-don-t-know-budxrt",
         "srcId": "budxrt",
-        "date": "12 NOV 2020 AT 21:57",
+        "date": "12nd November 2020",
         "categories": [
             "**mgs",
             "love"
@@ -691,7 +802,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/jo-hm-paaglon-kii-trh-ddhuunddhaa-krte-hain-btyj5s",
         "srcId": "btyj5s",
-        "date": "6 NOV 2020 AT 19:28",
+        "date": "6th November 2020",
         "categories": [
             "**pot",
             "life"
@@ -703,9 +814,9 @@
         "type": "quote",
         "text": "It's weird how most of the quest for \"success\" are nothing but an escape from reality!",
         "src": "yq",
-        "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/it-s-weird-how-most-quest-success-nothing-escape-reality-btyjqc",
+        "srcLink": "https://res.cloudinary.com/prk/image/upload/v1644592228/q/weird-quest-nothing.webp",
         "srcId": "btyjqc",
-        "date": "6 NOV 2020 AT 19:24",
+        "date": "6th November 2020",
         "categories": [
             "love",
             "humour"
@@ -719,7 +830,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/some-things-strict-either-talk-walk-drive-these-things-never-btv3y5",
         "srcId": "btv3y5",
-        "date": "5 NOV 2020 AT 19:51",
+        "date": "5th November 2020",
         "categories": [
             "**msc"
         ],
@@ -732,7 +843,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/shrmaaen-nhiin-behick-prsaad-grhnn-kren-btsn9u",
         "srcId": "btsn9u",
-        "date": "4 NOV 2020 AT 11:36",
+        "date": "4th November 2020",
         "categories": [
             "philosophy"
         ],
@@ -745,7 +856,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/best-time-serve-humanity-now-just-keep-your-mouth-covered-btedvx",
         "srcId": "btedvx",
-        "date": "29 OCT 2020 AT 19:46",
+        "date": "29th October 2020",
         "categories": [
             "philosophy",
             "**hor"
@@ -759,7 +870,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/you-poison-who-cares-keshri-tea-milktea-bsx1b9",
         "srcId": "bsx1b9",
-        "date": "23 OCT 2020 AT 10:24",
+        "date": "23rd October 2020",
         "categories": [
             "love",
             "erotica"
@@ -773,7 +884,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/ydi-kisii-se-bhii-baat-krte-hue-aap-mobaail-kaa-istemaal-hon-br6zjj",
         "srcId": "br6zjj",
-        "date": "13 OCT 2020 AT 22:16",
+        "date": "13rd October 2020",
         "categories": [
             "life",
             "philosophy"
@@ -787,7 +898,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/hm-kutte-islie-nhiin-paalte-kyonki-hmen-kutton-se-koii-ishk-brwyxc",
         "srcId": "brwyxc",
-        "date": "10 OCT 2020 AT 18:32",
+        "date": "10th October 2020",
         "categories": [
             "life",
             "philosophy"
@@ -801,7 +912,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/jiivn-kaa-2-hii-usuul-n-bhuulo-n-maaph-kro-brinok",
         "srcId": "brinok",
-        "date": "6 OCT 2020 AT 8:46",
+        "date": "6th October 2020",
         "categories": [
             "philosophy"
         ],
@@ -814,7 +925,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/it-s-weird-see-how-quest-justice-diverts-into-transfer-power-brdvot",
         "srcId": "brdvot",
-        "date": "4 OCT 2020 AT 18:45",
+        "date": "4th October 2020",
         "categories": [
             "**pts"
         ],
@@ -827,7 +938,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/jnyaan-aapko-socne-pr-mjbuur-kr-degaa-ki-aapko-bhut-kuch-hai-brcqxj",
         "srcId": "brcqxj",
-        "date": "4 OCT 2020 AT 11:19",
+        "date": "4th October 2020",
         "categories": [
             "life",
             "philosophy"
@@ -841,7 +952,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/maturity-when-you-resolve-gather-enough-order-take-revenge-bqxdvt",
         "srcId": "bqxdvt",
-        "date": "29 SEP 2020 AT 18:44",
+        "date": "29th September 2020",
         "categories": [
             "philosophy",
             "life"
@@ -855,7 +966,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/worst-part-problem-all-motivational-statements-out-there-bqjgzs",
         "srcId": "bqjgzs",
-        "date": "25 SEP 2020 AT 15:01",
+        "date": "25th September 2020",
         "categories": [
             "life",
             "philosophy"
@@ -869,7 +980,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/always-judge-book-cover-book-does-not-have-good-cover-bad-bpnzcm",
         "srcId": "bpnzcm",
-        "date": "16 SEP 2020 AT 8:23",
+        "date": "16th September 2020",
         "categories": [
             "**pts",
             "life"
@@ -883,7 +994,7 @@
         "src": "yq",
         "srcLink": "https://www.yourquote.in/praveen-ranjan-keshri-bzguw/quotes/thaal-ngaadde-bj-utthe-hain-ho-rhaa-snkhnaad-hai-naa-nrty-ye-48uw3",
         "srcId": "48uw3",
-        "date": "22 MAR 2020 AT 23:57",
+        "date": "22nd March 2020",
         "categories": [
             "**pot",
             "life"
