@@ -1,5 +1,18 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1651475851/q/giving-solution.jpg",
+        "type": "quote",
+        "text": "Giving a solution creates a bigger problem than the problem itself!",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/soln",
+        "srcId": "soln",
+        "date": "2nd May 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
         "img": "https://res.cloudinary.com/prk/image/upload/q/holi.jpg",
         "type": "quote",
         "text": "गाड़ी घर के पास लगाया हूं। उधर से एक बच्ची आती है और अपना रंगा हुवा चेहरा पीछे वाले शीशे में देखती है। अब कारण चाहें जो भी हो, बच्चे खुश हैं, खेलते हैं सब साथ में और एक अच्छा अनुभव करते हैं। बस होली का आज यही महत्व है।",
