@@ -1,5 +1,18 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1651828981/q/preferences.jpg",
+        "type": "quote",
+        "text": "We hammer on the character but at the end of the day, it's all preferences.",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/ham",
+        "srcId": "ham",
+        "date": "6th May 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
         "img": "https://res.cloudinary.com/prk/image/upload/v1651475851/q/giving-solution.jpg",
         "type": "quote",
         "text": "Giving a solution creates a bigger problem than the problem itself!",
