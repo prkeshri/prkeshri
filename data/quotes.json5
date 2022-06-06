@@ -1,5 +1,18 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1654545329/q/everyone-is-desperate.jpg",
+        "type": "quote",
+        "text": "Everybody is desperate.  It's just how soon we start to loose our cool that spreads up!",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/ed",
+        "srcId": "ed",
+        "date": "7th June 2022",
+        "categories": [
+            "diary",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
         "img": "https://res.cloudinary.com/prk/image/upload/v1652082877/q/one-sided.jpg",
         "type": "quote",
         "text": "Beware of others taking one sided effort, especially for long time. It will cost for sure!",
