@@ -1,5 +1,18 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/v1655299526/q/prashn-krodh.jpg",
+        "type": "quote",
+        "text": "यदि आप लोगों के प्रश्न करने भर से क्रोधित हो उठेंगे तो समस्या का अंत तो छोड़िए, वो इतनी गुना बढ़ जाएगी कि फिर संभालना भी कठिन हो जाएगा ।।\n\nप्रश्न को सुनिए, पूछने के सलीके को देखिए, और फिर उसी सुर में उत्तर दीजिए।",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/pk",
+        "srcId": "pk",
+        "date": "15th June 2022",
+        "categories": [
+            "love",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
         "img": "https://res.cloudinary.com/prk/image/upload/q/everyone-is-desperate.jpg",
         "type": "quote",
         "text": "Everybody is desperate.  It's just how soon we start to loose our cool that spreads up!",
