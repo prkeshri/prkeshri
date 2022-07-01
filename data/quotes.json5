@@ -1,6 +1,19 @@
 [
     {
-        "img": "https://res.cloudinary.com/prk/image/upload/v1655299526/q/prashn-krodh.jpg",
+        "img": "https://res.cloudinary.com/prk/image/upload/q/advice-q.jpg",
+        "type": "quote",
+        "text": "With every set of advice out there, there are always some terms and conditions included ! And in such cases, instinct may be the only answer !!",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/aq",
+        "srcId": "aq",
+        "date": "1st July 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
+        "img": "https://res.cloudinary.com/prk/image/upload/q/prashn-krodh.jpg",
         "type": "quote",
         "text": "यदि आप लोगों के प्रश्न करने भर से क्रोधित हो उठेंगे तो समस्या का अंत तो छोड़िए, वो इतनी गुना बढ़ जाएगी कि फिर संभालना भी कठिन हो जाएगा ।।\n\nप्रश्न को सुनिए, पूछने के सलीके को देखिए, और फिर उसी सुर में उत्तर दीजिए।",
         "src": "yq",
