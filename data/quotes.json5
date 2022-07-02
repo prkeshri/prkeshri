@@ -1,5 +1,18 @@
 [
     {
+        "img": "https://res.cloudinary.com/prk/image/upload/q/homemaker.jpg",
+        "type": "quote",
+        "text": "IMO the task of a housewife or a homemaker is the toughest. It requires all the sorts of high self-motivation, discipline, perfect timings, management, planning & what not ! I was completely exhausted just from tiny chores during lockdown! A home where the homemaker is insulted or looked down upon, due to whatever lord or god professional position someone has, is a mere place to eat & sleep like a zombie !!",
+        "src": "yq",
+        "srcLink": "https://praveenranjan.com/q/hm",
+        "srcId": "hm",
+        "date": "2nd July 2022",
+        "categories": [
+            "life",
+            "philosophy"
+        ],
+        "author": "me"
+    },{
         "img": "https://res.cloudinary.com/prk/image/upload/q/advice-q.jpg",
         "type": "quote",
         "text": "With every set of advice out there, there are always some terms and conditions included ! And in such cases, instinct may be the only answer !!",
